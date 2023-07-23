@@ -7,3 +7,9 @@
 [submodule "assignments-3-and-later-lsefacelik"]
 	path = assignments-3-and-later-lsefacelik
 	url = https://github.com/cu-ecen-aeld/assignments-3-and-later-lsefacelik.git
+[submodule "assignment-4-lsefacelik"]
+	path = assignment-4-lsefacelik
+	url = https://github.com/cu-ecen-aeld/assignment-4-lsefacelik.git
+[submodule "assignment-5-lsefacelik"]
+	path = assignment-5-lsefacelik
+	url = https://github.com/cu-ecen-aeld/assignment-5-lsefacelik.git
